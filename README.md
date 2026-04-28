@@ -1,13 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=header"/>
+<h1 align="center">Olá, eu sou a Anahy 👋</h1>
+<h3 align="center">SRE & Observability Enthusiast | IaC Specialist</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Prazer,+aqui+quem+fala+é+a+Anahy;Sou+SRE+e+sou+apaixonada+por+Observability;Estudante+de+Defesa+Cibernética;Bom+te+ver+por+aqui!+:%29)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Anahy;I'm+SRE+and+observability+enthusiast;I+Graduated+CyberSecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anahysales&bg_color=0d1117&color=ffff00&line=bd009d&point=bd009d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🚀 Sobre mim
+- 🛠 **SRE Pleno** focada em automatizar o impossível.
+- ☁️ Especialista em **Infraestrutura como Código (Terraform)** e Cloud.
+- 📊 Apaixonada por **Observabilidade** e sistemas resilientes.
+- 🎯 Atualmente focada em: `[Insira aqui sua tecnologia principal, ex: AWS, Kubernetes]`
+- 💬 Pergunte-me sobre: SRE, Monitoramento, ou projetos de Backend.
 
+---
 
-<div align="center"> 
- <a href="https://www.linkedin.com/in/anahy-sales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- <a href="https://instagram.com/anahysales" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href = "mailto:anahy.sales@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+## 📈 Estatísticas
+<div align="center">
+  <a href="https://github.com/anuraghazr/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SUA-USER&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas da Anahy" />
+  </a>
+  <a href="https://github.com/anuraghazr/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahy.sales&layout=compact&theme=tokyonight" alt="Linguagens da Anahy" />
+  </a>
 </div>
+
+---
+
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
