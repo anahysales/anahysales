@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Anahy 👋</h1>
-<h3 align="center">SRE & Observability Enthusiast | IaC Specialist</h3>
+<h3 align="center">SRE & Observability Enthusiast </h3>
 
 <br>
 
@@ -9,18 +9,6 @@
 - 📊 Apaixonada por **Observabilidade** e sistemas resilientes.
 - 🎯 Atualmente focada em: `[Insira aqui sua tecnologia principal, ex: AWS, Kubernetes]`
 - 💬 Pergunte-me sobre: SRE, Monitoramento, ou projetos de Backend.
-
----
-
-## 📈 Estatísticas
-<div align="center">
-  <a href="https://github.com/anuraghazr/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SUA-USER&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas da Anahy" />
-  </a>
-  <a href="https://github.com/anuraghazr/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahy.sales&layout=compact&theme=tokyonight" alt="Linguagens da Anahy" />
-  </a>
-</div>
 
 ---
 
